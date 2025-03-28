@@ -23,9 +23,9 @@ MySQL - Workbench
 
 JWT
 
-📁 Folder structure
+# 📁 Folder structure
 
-Frontend - Holds the client application
+# Frontend - Holds the client application
 
 public - This holds all of our static files
 
@@ -39,7 +39,7 @@ index.js - This is what renders the react app by rendering App.js.
 
 package.json - Defines npm behaviors and packages for the client
 
-Backend - Holds the server application
+# Backend - Holds the server application
 
 .env - This holds our configuration files, like MySQL
 
